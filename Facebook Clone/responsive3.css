@@ -1,0 +1,25 @@
+@media only screen and (max-width:380px){
+    .heading
+    {
+        margin-top: 0px;
+        margin-left: 10px;
+    }
+    .contact{
+
+        margin-top: 150px;
+        margin-left: 0px;
+
+    }
+    input{
+        width: 230px;
+        font-size: 13px;
+
+    }
+    .log
+    {
+        width: 243px;
+    }
+    .rough{
+        margin-left: 80px;
+    }
+}

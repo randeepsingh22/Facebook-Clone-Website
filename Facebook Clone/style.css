@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(192, 192, 192, 0.267);
+}
+.main{
+    display: flex;
+    width: auto;
+}
+.heading{
+   
+    width: 500px;
+    margin-left: 260px;
+}
+h3{
+    margin-left: 100px;
+}
+.mainhead{
+    color: blue;
+    margin-top: 230px;
+    /*margin-left: 250px;*/
+    font-size:65px ;
+}
+.subtext{
+    margin-left:0px;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: 80;
+    ;
+}
+.contact{
+    border: 1px solid silver;
+    position: absolute;
+    width: 350px;
+    height: 320px;
+    margin-left: 850px ;
+    margin-top: 150px;    
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2px 2px 6px rgba(192, 192, 192, 0.623),-2px -2px 6px  rgba(192, 192, 192, 0.623);
+
+}
+input{
+    background-color: white;
+
+    height: 50px;
+    padding-left: 12px;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 16px;
+    padding-left: 10px;
+    border: 1px solid silver;
+    width: 327px;
+}
+
+.log{
+    color: white;
+    background-color:rgba(53, 53, 230, 0.842);
+    width: 340px;
+    margin: 5px;
+    border: 1px solid silver;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+input:hover{
+    outline: none;
+    border: 1px solid  rgba(53, 53, 230, 0.788);
+}
+.log:hover{
+    background-color: rgba(53, 53, 230, 0.788);
+    outline: none;
+}
+.forget{
+    width: auto;
+    text-align: center;
+    margin: 15px;
+
+}
+a{
+    text-decoration: none;
+    color:rgba(0, 0, 255, 0.719);
+}
+a:hover{
+    text-decoration: underline;
+}
+hr{
+    margin-left: 5px;
+    width: 340px;
+
+}
+.create{
+    color: white;
+    background-color: rgba(0, 128, 0, 0.63);
+
+    margin: 6px;
+    font-weight: bold;
+    font-size: 17px;
+    padding: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 80px; 
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 1px solid silver;
+
+}
+.create:hover{
+    background-color:  rgba(0, 128, 0, 0.651);
+    outline: none;
+}
+.rough{
+    margin-top: 530px;
+    margin-left: 140px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 340px;
+}

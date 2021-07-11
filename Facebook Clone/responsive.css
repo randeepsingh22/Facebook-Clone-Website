@@ -1,0 +1,21 @@
+@media only screen and (max-width:700px){
+    .heading{
+        margin-left: 50px;
+    }
+    .contact{
+        margin-left: 32px;
+        width: auto;
+    }
+    .rough{
+        margin-left: 32px;
+    }
+    input{
+        width: 280px;
+    }
+    .log{
+        width: 295px;
+    }
+    .create{
+        width: 240px;
+    }
+}

@@ -1,0 +1,43 @@
+@media only screen and (max-width:1024px){
+    .main{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    
+    }
+    .heading{
+        margin-top: 0px;
+        /*margin-left: 150px;*/
+    }
+    .contact{
+        width: 460px;
+        margin-left: 260px;
+        margin-top: 220px;
+    }
+    .mainhead{
+        text-align: center;
+        margin-top: 100px;
+    }
+    input{
+        width: 440px;
+    }
+    .log{
+        width: 455px;
+    }
+    hr{
+        width: 455px;
+    }
+    .create{
+        margin-left: 0px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .rough{
+        margin-left: 320px;
+        margin-top: 450px;
+        font-size: 18px;
+        width: 350px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+}
